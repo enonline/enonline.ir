@@ -1,0 +1,2 @@
+(self.webpackChunkenonline_ir=self.webpackChunkenonline_ir||[]).push([[691],{738:function(n,e,i){"use strict";i.r(e);var l=i(294);e.default=function(n){n.data;return l.createElement("div",null,"English Online")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-49c23acfc0ee4ea292c3.js.map
